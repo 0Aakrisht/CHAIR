@@ -55,7 +55,7 @@ ul li a:hover {
 }
 
 /* header */
-/* header {
+header {
   height: 100vh;
   display: flex;
   flex-wrap: wrap;
@@ -97,7 +97,7 @@ ul li a:hover {
   height: 500px;
   margin-left: 20px;
   margin-bottom: 40px;
-} */
+}
 
 /* popularity */
 .popularity {
