@@ -55,7 +55,7 @@ ul li a:hover {
 }
 
 /* header */
-header {
+/* header {
   height: 100vh;
   display: flex;
   flex-wrap: wrap;
@@ -97,7 +97,7 @@ header {
   height: 500px;
   margin-left: 20px;
   margin-bottom: 40px;
-}
+} */
 
 /* popularity */
 .popularity {
@@ -276,7 +276,7 @@ header {
 }
 
 /* Features */
-.features {
+/* .features {
   margin-top: 10rem;
   display: flex;
   flex-wrap: wrap;
@@ -345,7 +345,7 @@ footer .about-company {
 footer .about-company .container {
   margin-right: 40px;
   margin-top: 20px;
-}
+} */
 
 .about-company .container h1 {
   margin-bottom: 50px;
