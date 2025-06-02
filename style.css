@@ -276,7 +276,7 @@ ul li a:hover {
 }
 
 /* Features */
-/* .features {
+.features {
   margin-top: 10rem;
   display: flex;
   flex-wrap: wrap;
@@ -345,7 +345,7 @@ footer .about-company {
 footer .about-company .container {
   margin-right: 40px;
   margin-top: 20px;
-} */
+}
 
 .about-company .container h1 {
   margin-bottom: 50px;
